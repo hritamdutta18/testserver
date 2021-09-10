@@ -2,6 +2,7 @@
   "cards": [
     {
       "id": 1,
+      "date": "2021-07-28T00:00:00.756Z",
       "image": "https://i.postimg.cc/gj8cMptx/image.png",
       "title": "Dancing Workshop",
       "info": "The most common way of doing that is with the map function that will return JSX. You will rarely need a loop other than this one. Below you can see how it works.",
@@ -11,6 +12,8 @@
     {
       "id": 2,
       "image": "https://i.postimg.cc/gj8cMptx/image.png",
+            "date": "2021-07-28T00:00:00.756Z",
+
       "title": "Dancing Workshop",
       "info": "The most common way of doing that is with the map function that will return JSX. You will rarely need a loop other than this one. Below you can see how it works.",
       "registered": 49,
@@ -19,6 +22,8 @@
     {
       "id": 3,
       "image": "https://i.postimg.cc/gj8cMptx/image.png",
+            "date": "2021-07-28T00:00:00.756Z",
+
       "title": "Dancing Workshop",
       "info": "The most common way of doing that is with the map function that will return JSX. You will rarely need a loop other than this one. Below you can see how it works.",
       "registered": 70,
@@ -27,6 +32,8 @@
     {
       "id": 4,
       "image": "https://i.postimg.cc/gj8cMptx/image.png",
+            "date": "2021-07-28T00:00:00.756Z",
+
       "title": "Dancing Workshop",
       "info": "The most common way of doing that is with the map function that will return JSX. You will rarely need a loop other than this one. Below you can see how it works.",
       "registered": 100,
