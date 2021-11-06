@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "image": "https://i.postimg.cc/gj8cMptx/image.png",
+      "image": "https://i.postimg.cc/W3zwGCBX/photo-1454372182658-c712e4c5a1db.jpg",
        "date": "2021-07-28T00:00:00.756Z",
       "title": "Dancing Workshop",
       "info": "The most common way of doing that is with the map function that will return JSX. You will rarely need a loop other than this one. Below you can see how it works.",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "image": "https://i.postimg.cc/gj8cMptx/image.png",
+      "image": "https://i.postimg.cc/SR7Lk4CQ/2559942.jpg",
        "date": "2017-01-08T00:00:00.756Z",
       "title": "Dancing Workshop",
       "info": "The most common way of doing that is with the map function that will return JSX. You will rarely need a loop other than this one. Below you can see how it works.",
@@ -29,7 +29,7 @@
     },
     {
       "id": 4,
-      "image": "https://i.postimg.cc/gj8cMptx/image.png",
+      "image": "https://i.postimg.cc/YCSNKJ9k/images.jpg",
       "date": "2020-12-18T00:00:00.756Z",
       "title": "Dancing Workshop",
       "info": "The most common way of doing that is with the map function that will return JSX. You will rarely need a loop other than this one. Below you can see how it works.",
